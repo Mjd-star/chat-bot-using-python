@@ -1,7 +1,8 @@
 # chat-bot-using-python
 
 
-
+## The full code is on the GitHub repository, but I’m going to walk through the details of the code for the sake of transparency and better understanding.
+## Now let’s begin by importing the necessary libraries. (When you run the python files on your terminal, be sure to make sure they are installed properly. I use pip3 to install the packages.)
 ````
 ```
 import re
